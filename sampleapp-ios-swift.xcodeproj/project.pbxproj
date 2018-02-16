@@ -193,15 +193,17 @@
 					265586EC1EF88770001914FC = {
 						CreatedOnToolsVersion = 8.3.2;
 						ProvisioningStyle = Automatic;
+						ProvisioningProfile = Automatic;
 						SystemCapabilities = {
 							com.apple.Push = {
 								enabled = 0;
 							};
 						};
 					};
-					F02E65BA1F1454DC00F657C9 = {
+					F02E65BA1F1454DC00F657C9 = {O
 						CreatedOnToolsVersion = 8.3.3;
 						ProvisioningStyle = Automatic;
+						ProvisioningProfile = Automatic;
 						TestTargetID = 265586EC1EF88770001914FC;
 					};
 				};
