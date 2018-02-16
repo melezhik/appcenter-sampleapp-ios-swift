@@ -200,7 +200,7 @@
 							};
 						};
 					};
-					F02E65BA1F1454DC00F657C9 = {O
+					F02E65BA1F1454DC00F657C9 = {
 						CreatedOnToolsVersion = 8.3.3;
 						ProvisioningStyle = Automatic;
 						ProvisioningProfile = Automatic;
