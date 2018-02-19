@@ -192,7 +192,7 @@
         TargetAttributes = {
           265586EC1EF88770001914FC = {
             CreatedOnToolsVersion = 8.3.2;
-            ProvisioningStyle = Automatic;
+            ProvisioningStyle = Manual;
             DevelopmentTeam = "53APD5F9YQ";
             SystemCapabilities = {
               com.apple.Push = {
@@ -202,7 +202,7 @@
           };
           F02E65BA1F1454DC00F657C9 = {
             CreatedOnToolsVersion = 8.3.3;
-            ProvisioningStyle = Automatic;
+            ProvisioningStyle = Manual;
             DevelopmentTeam = "53APD5F9YQ";
             TestTargetID = 265586EC1EF88770001914FC;
           };
@@ -506,7 +506,7 @@
         LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
         PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.appcenter.sampleapp.swift;
         PRODUCT_NAME = "$(TARGET_NAME)";
-        PROVISIONING_PROFILE = "";
+        PROVISIONING_PROFILE = "d2a2566f-739c-4f9f-a017-0d47c0c5d7d5";
         PROVISIONING_PROFILE_SPECIFIER = "";
         SWIFT_VERSION = 3.0;
         TARGETED_DEVICE_FAMILY = 1;
@@ -525,6 +525,7 @@
         LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
         PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.appcenter.sampleapp.swift;
         PRODUCT_NAME = "$(TARGET_NAME)";
+        PROVISIONING_PROFILE = "d2a2566f-739c-4f9f-a017-0d47c0c5d7d5";
         PROVISIONING_PROFILE_SPECIFIER = "";
         SWIFT_VERSION = 3.0;
         TARGETED_DEVICE_FAMILY = 1;
