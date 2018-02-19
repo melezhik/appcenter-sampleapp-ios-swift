@@ -193,6 +193,7 @@
           265586EC1EF88770001914FC = {
             CreatedOnToolsVersion = 8.3.2;
             ProvisioningStyle = Automatic;
+            DevelopmentTeam = "53APD5F9YQ"
             SystemCapabilities = {
               com.apple.Push = {
                 enabled = 0;
@@ -202,6 +203,7 @@
           F02E65BA1F1454DC00F657C9 = {
             CreatedOnToolsVersion = 8.3.3;
             ProvisioningStyle = Automatic;
+            DevelopmentTeam = "53APD5F9YQ"
             TestTargetID = 265586EC1EF88770001914FC;
           };
         };
