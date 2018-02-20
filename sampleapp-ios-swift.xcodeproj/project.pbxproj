@@ -404,7 +404,6 @@
     265587151EF88771001914FC /* Debug */ = {
       isa = XCBuildConfiguration;
       buildSettings = {
-        ALLOW_PROVISIONING_UPDATES = YES;
         ALWAYS_SEARCH_USER_PATHS = NO;
         CLANG_ANALYZER_NONNULL = YES;
         CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
@@ -456,7 +455,6 @@
     265587161EF88771001914FC /* Release */ = {
       isa = XCBuildConfiguration;
       buildSettings = {
-        ALLOW_PROVISIONING_UPDATES = YES;
         ALWAYS_SEARCH_USER_PATHS = NO;
         CLANG_ANALYZER_NONNULL = YES;
         CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
@@ -515,7 +513,6 @@
         PROVISIONING_PROFILE_SPECIFIER = "";
         SWIFT_VERSION = 3.0;
         TARGETED_DEVICE_FAMILY = 1;
-        ALLOW_PROVISIONING_UPDATES = YES;
       };
       name = Debug;
     };
@@ -536,7 +533,6 @@
         PROVISIONING_PROFILE_SPECIFIER = "";
         SWIFT_VERSION = 3.0;
         TARGETED_DEVICE_FAMILY = 1;
-        ALLOW_PROVISIONING_UPDATES = YES;
       };
       name = Release;
     };
@@ -553,7 +549,6 @@
         TEST_TARGET_NAME = "sampleapp-ios-swift";
         CODE_SIGN_STYLE = Manual;
         PROVISION_STYLE = Manual;
-        ALLOW_PROVISIONING_UPDATES = YES;
       };
       name = Debug;
     };
@@ -570,7 +565,6 @@
         TEST_TARGET_NAME = "sampleapp-ios-swift";
         CODE_SIGN_STYLE = Manual;
         PROVISION_STYLE = Manual;
-        ALLOW_PROVISIONING_UPDATES = YES;
       };
       name = Release;
     };
